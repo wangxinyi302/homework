@@ -1,2 +1,2 @@
-# homework作业仓库
-第一个HelloWorld程序
+name = input("请输入内容：")
+print("你输入的是：", name)
